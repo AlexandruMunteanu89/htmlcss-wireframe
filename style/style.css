@@ -1,0 +1,9 @@
+.main-container{
+    width: 512px;
+}
+.card{
+    margin: 3% 5%;
+    border: solid black;
+    padding: 0 3%;
+    height: 180px;
+}
