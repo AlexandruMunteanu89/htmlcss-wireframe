@@ -5,8 +5,14 @@
     margin: 3% 5%;
     border: solid black;
     padding: 0 3%;
-    height: 180px;
+    height: 160px;
 }
 .left-margin{
     margin: 0% 2%;
+}
+.author{
+    margin-bottom: 0%;
+}
+.text-author{
+    margin-top: 0;
 }
